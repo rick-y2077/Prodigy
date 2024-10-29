@@ -11,6 +11,9 @@ Splice.com 😡
 
 ## requisiti funzionali 
 
+![ba4a6919](https://github.com/user-attachments/assets/a43c051b-8107-49da-8df9-9879bdd1e1e3)
+
+
 
 1. Interfaccia Utente Intuitiva:
    - Design user-friendly per facilitare la navigazione e l'accesso alle funzionalità.
