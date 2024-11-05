@@ -16,6 +16,9 @@ Splice.com 😡
 
 ![ba4a6919](https://github.com/user-attachments/assets/a43c051b-8107-49da-8df9-9879bdd1e1e3)
 
+![ea05844f](https://github.com/user-attachments/assets/9ad2ed5a-4c3a-4978-8d4c-e948ccbabe26)
+
+
 
 
 1. Interfaccia Utente Intuitiva:
