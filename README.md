@@ -1,7 +1,7 @@
 # Prodigy
 
 ## Tagline
-Get. Learn. Make
+Learn. Make
 
 ## Descrizione
 Prodigy ti aiuta ad apprendere le nuove tecnologie musicali. una volta acquistato un prodotto, Prodigy ti assisterà con un insegnante virtuale nell'apprendimento delle nuove tecnologie.  
