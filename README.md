@@ -89,3 +89,53 @@ Splice.com 😡
 
 
 
+
+
+## analisi SWOT
+
+
+### Strengths - punti di forza:
+
+interazione esclusiva: Prodigy offre un'interazione soggettiva tra user e piattaforma, con percorsi iniziali personalizzati e “modalità insegnante”, con la quale un assistente AI sostiene una lezione e può essere interrotto per eventuali domande.
+
+tracciamento del percorso: la sezione Progressi della piattaforma permette di vedere un analisi del proprio percorso, con eventuali notifiche di rallentamento o accelerazione. 
+
+contenuti esclusivi: oltre a raccogliere, analizzare e semplificare documenti e manuali già presenti in commercio, Prodigy fornisce una raccolta di contenuti esclusivi forniti dal team Prodigy, contenenti informazioni utili per produttori di ogni livello.
+
+navigazione facilitata: i contenuti, le lezioni, i manuali e tutto ciò che fornisce la piattaforma è accessibile tramite una pagina di ricerca in grado di filtrare contenuti per tipologia, livello di difficoltà e altri parametri.
+
+Prodictionary: Prodigy offre un micro servizio di dizionario, specializzato per i termini tecnici più complessi dell’ambiente e ottimizzato per la sua comprensione (testi più facili e riferimenti più comprensibili rispetto ai moderni servizi di dizionario online).
+
+basse spese di manutenzione: la piattaforma funziona principalmente tramite servizi AI e cataloghi di archivio, perciò non è richiesto un grande mantenimento/aggiornamento, ad eccezione di una pagina blog dove pubblicare periodicamente le news.
+
+
+
+### Weakness - punti di debolezza:
+
+grande investimento iniziale richiesto: la piattaforma necessita di una grande manodopera iniziale e dei server su cui appoggiare i vari servizi.
+
+servizi prettamente online: per usufruire al completo dei servizi offerti da Prodigy è necessario disporre di una connessione stabile alla rete internet.
+
+mancanza di marketing: essendo una piattaforma recente, Prodigy non dispone di sufficiente rilevanza nell’ambiente delle piattaforme di apprendimento per poter implementare servizi futuri.
+
+
+
+### Opportunities - opportunità:
+
+aumento dei produttori: con l’avvento dell’home producing (produzione in casa) molti aspiranti produttori stanno aumentando la quantità di possibili clienti di Prodigy.
+
+Testimonial di rilevanza: un investimento utile ai fini di marketing può essere il coinvolgimento di produttori esperti per realizzare pubblicità e future collaborazioni per corsi speciali.
+
+no e-commerce: la piattaforma non offrirà servizi di acquisto di plug-ins o strumenti analogici/digitali per produttori, evitando così la concorrenza con altre piattaforme di e-commerce molto più avanzate.
+
+
+
+### Threats - minacce: 
+
+mancanza di piano gratuito: la piattaforma è esclusivamente utilizzabile tramite l’iscrizione a uno dei piani disponibili, una volta superato il periodo di prova iniziale di 7 giorni.
+
+alternative gratuite: Prodigy offre diversi servizi accessibili da una sola piattaforma, ma i singoli servizi sono ottenibili da simili piattaforme (gratuite o con iscrizione).
+
+affidabilità: essendo un progetto poco conosciuto, è difficile risultare affidabili senza recensioni e dovendo contendere con altri servizi più conosciuti, su cui i clienti possono fare affidamento.
+
+
